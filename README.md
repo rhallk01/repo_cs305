@@ -4,14 +4,16 @@
 
 - [x] fixing recursion in function
 
-- [ ] update conditioning using if statements
+- [ ] update conditioning using switch cases
 
 - [ ] bug fix .h file
 
-## Next Week:
-- [ ] juice lemons
+- [ ] add comments to code
 
-- [ ] enjoy vegetables
+## Next Week:
+- [ ] jump up and down
+
+- [ ] get boba mayb?
 
 
 
