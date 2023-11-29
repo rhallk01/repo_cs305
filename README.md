@@ -9,9 +9,9 @@
 - [ ] bug fix .h file
 
 ## Next Week:
-- [ ] juice lemons
+- [ ] jump up and down
 
-- [ ] enjoy vegetables
+- [ ] get boba mayb?
 
 
 
