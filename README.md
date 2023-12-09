@@ -8,6 +8,11 @@
 
 - [ ] bug fix .h file
 
+## Next Week:
+- [ ] juice lemons
+
+- [ ] enjoy vegetables
+
 
 
 ## License for Project: The GNU’s General Public License 
